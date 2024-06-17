@@ -291,9 +291,9 @@
 
         <!-- Loaders -->
         <dependency>
-	        <groupId>org.mvnpm</groupId>
-	        <artifactId>ldrs</artifactId>
-	        <version>${ldrs.version></version>
+	    <groupId>org.mvnpm</groupId>
+	    <artifactId>ldrs</artifactId>
+	    <version>${ldrs.version}</version>
         </dependency>
         
         <!-- Polyfill for importmaps -->
