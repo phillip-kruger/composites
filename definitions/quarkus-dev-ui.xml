@@ -294,5 +294,17 @@
 	    <artifactId>ldrs</artifactId>
 	    <version>${ldrs.version}</version>
         </dependency>
+
+	<!-- Other -->
+	<dependency>
+      	    <groupId>org.mvnpm</groupId>
+            <artifactId>zrender</artifactId>
+            <version>5.5.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.mvnpm</groupId>
+            <artifactId>tslib</artifactId>
+            <version>2.3.0</version>
+        </dependency>    
     </dependencies>
 </project>
