@@ -28,62 +28,62 @@
         <dependency>
             <groupId>org.mvnpm.at.qomponent</groupId>
             <artifactId>qui-alert</artifactId>
-            <version>1.0.4</version>
+            <version>1.0.5</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.qomponent</groupId>
             <artifactId>qui-badge</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.4</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.qomponent</groupId>
             <artifactId>qui-card</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.qomponent</groupId>
             <artifactId>qui-icons</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.qomponent</groupId>
             <artifactId>qui-switch</artifactId>
-            <version>1.0.3</version>
+            <version>1.0.5</version>
             <scope>provided</scope>
         </dependency>
         
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>fontawesome-common-types</artifactId>
-            <version>6.5.2</version>
+            <version>6.6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>fontawesome-svg-core</artifactId>
-            <version>6.5.2</version>
+            <version>6.6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>free-brands-svg-icons</artifactId>
-            <version>6.5.2</version>
+            <version>6.6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>free-regular-svg-icons</artifactId>
-            <version>6.5.2</version>
+            <version>6.6.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>free-solid-svg-icons</artifactId>
-            <version>6.5.2</version>
+            <version>6.6.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
