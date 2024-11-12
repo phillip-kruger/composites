@@ -300,5 +300,10 @@
             <artifactId>avatar</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>org.mvnpm.at.vaadin</groupId>
+            <artifactId>popover</artifactId>
+            <version>${project.version}</version>
+        </dependency>             
     </dependencies>
 </project>
