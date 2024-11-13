@@ -55,7 +55,12 @@
             <version>1.0.5</version>
             <scope>provided</scope>
         </dependency>
-        
+        <dependency>
+            <groupId>org.mvnpm.at.qomponent</groupId>
+	   <artifactId>qui-directory-tree</artifactId>
+	   <version>1.0.0</version>
+	   <scope>provided</scope>
+        </dependency>
         <dependency>
             <groupId>org.mvnpm.at.fortawesome</groupId>
             <artifactId>fontawesome-common-types</artifactId>
